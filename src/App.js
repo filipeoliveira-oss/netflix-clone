@@ -4,7 +4,6 @@ import tmdb from './tmdb'
 import MovieRow from './components/MovieRow';
 import FeaturedMovie from './components/FeaturedMovie';
 import Header from './components/Header'
-import userEvent from '@testing-library/user-event';
 
 export default () => {
 
@@ -63,6 +62,12 @@ export default () => {
         Direitos de imagem para Netflix<br/>
         Dados requisitados do site Themoviedb.org
       </footer>
+
+      {movieList.length <= 0 &&
+        <div className="loading">
+          <img src="https://media.filmelier.com/noticias/br/2020/03/Netflix_LoadTime.gif" alt="carregando"/>
+        </div>
+      }
     </div>
   )
 }
