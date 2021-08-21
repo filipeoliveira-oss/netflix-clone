@@ -24,9 +24,9 @@ It's created using [React](https://reactjs.org/docs/getting-started.html), consu
 ### Screenshots
 
 ### Featured movie
-![Top](https://i.ibb.co/NVN0rgh/Top.png)\
+![Top](https://i.ibb.co/NVN0rgh/Top.png)
 ### Movie / Series list
-![Middle](https://i.ibb.co/WfFKHXV/Middle.png)\
+![Middle](https://i.ibb.co/WfFKHXV/Middle.png)
 ### Responsive mode
 ![Responsive](https://i.ibb.co/r2Z6jJx/responsivo.png)
 
