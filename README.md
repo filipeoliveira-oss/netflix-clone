@@ -21,7 +21,7 @@ This project intends to replicate the initial page of Netflix Inc.
 
 It's created using [React](https://reactjs.org/docs/getting-started.html), consuming [The Movie DataBase API](https://www.themoviedb.org/documentation/api)
 
-### Screenshots
+## Screenshots
 
 ### Featured movie
 ![Top](https://i.ibb.co/NVN0rgh/Top.png)
